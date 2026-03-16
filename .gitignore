@@ -2,6 +2,7 @@ data/
 slurm-*.err
 slurm-*.out
 mimic3-benchmarks/
+docs/
 __pycache__/
 **/__pycache__/
 *.pyc
