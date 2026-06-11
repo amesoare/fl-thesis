@@ -20,9 +20,8 @@ checkpoints/
 logs/
 
 # Data (not redistributable — see data/DATA.md)
-data/
-!data/vertical_splits/
-!data/vertical_splits/**
+data/*
+!data/DATA.md
 mimic3-benchmarks/
 data_prep/eicu_benchmark/
 
